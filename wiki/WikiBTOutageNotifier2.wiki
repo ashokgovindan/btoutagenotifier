@@ -1,1 +1,11 @@
+{{{<script type="text/javascript">
+var gaJsHost = (("https:" == document.location.protocol) ? "https://ssl." : "http://www.");
+document.write(unescape("%3Cscript src='" + gaJsHost + "google-analytics.com/ga.js' type='text/javascript'%3E%3C/script%3E"));
+</script>
+<script type="text/javascript">
+var pageTracker = _gat._getTracker("UA-1217146-2");
+pageTracker._initData();
+pageTracker._trackPageview();
+</script>}}}
+
 BT Outage Notifier application reads the BT Planned Service Outage webpage and scrolls through the application. User can also search BT.COM using this application. Various BT related sites are also included. It is developed using VB.NET 2.0.
