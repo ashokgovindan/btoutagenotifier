@@ -1,2 +1,25 @@
+<!-- Google CSE Search Box Begins  -->
+<form action="https://server2.kproxy.com/servlet/redirect.srv/s/p1/" id="searchbox_017797085842846000965:bu4g6chjzgm">
+  <input type="hidden" name="cx" value="017797085842846000965:bu4g6chjzgm" />
+  <input type="hidden" name="cof" value="FORID:11" />
+  <input type="text" name="q" size="25" />
+  <input type="submit" name="sa" value="Search" />
+</form>
+<script type="text/javascript" src="https://server2.kproxy.com/servlet/redirect.srv/sruj/snvrabu/smno/p1/coop/cse/brand?form=searchbox_017797085842846000965%3Abu4g6chjzgm&lang=en"></script>
+<!-- Google CSE Search Box Ends -->
+
 
 BT Outage Notifier application reads the BT Planned Service Outage webpage and scrolls through the application. User can also search BT.COM using this application. Various BT related sites are also included. It is developed using VB.NET 2.0.
+
+<!-- Google Search Result Snippet Begins -->
+<div id="results_017797085842846000965:bu4g6chjzgm"></div>
+<script type="text/javascript">
+  var googleSearchIframeName = "results_017797085842846000965:bu4g6chjzgm";
+  var googleSearchFormName = "searchbox_017797085842846000965:bu4g6chjzgm";
+  var googleSearchFrameWidth = 600;
+  var googleSearchFrameborder = 0;
+  var googleSearchDomain = "www.google.com";
+  var googleSearchPath = "https://server2.kproxy.com/servlet/redirect.srv/sruj/snvrabu/smno/p1/cse";
+</script>
+<script type="text/javascript" src="https://server2.kproxy.com/servlet/redirect.srv/sruj/snvrabu/smno/p1/afsonline/show_afs_search.js"></script>
+<!-- Google Search Result Snippet Ends -->
